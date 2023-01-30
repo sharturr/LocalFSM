@@ -273,7 +273,7 @@ function cofirmtAction(buttonId) {
 				twoButtons();
 				fillAutomColor();
 			}
-			else myAlert("Неправильное разбиение");
+			else myAlert("Первышено количество попыток. Посмотрите лекционный материал по следующей ссылке: https://stepik.org/lesson/371035/step/1?unit=358523"); ///Неправильное разбиение
 			return (true);
 		} else {
 			myAlert("Подождем");
